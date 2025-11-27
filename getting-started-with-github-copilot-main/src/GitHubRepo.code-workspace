@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "GitHubRepo",
+			"path": "../GitHubRepo"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
